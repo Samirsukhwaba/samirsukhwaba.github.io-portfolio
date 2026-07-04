@@ -57,9 +57,12 @@ I enjoy building scalable cloud-based data platforms, automating ETL/ELT pipelin
 
 # 📂 Featured Project
 
-## Enterprise Data Engineering Pipeline (Azure)
+## Azure Insurance Data Engineering Pipeline (Azure)
+
+🔗 **GitHub Repository:** [https://github.com/Samirsukhwaba/Azure-Insurance-Data-Engineering]
 
 Designed and implemented a complete enterprise-scale Azure Data Engineering solution using modern cloud technologies.
+
 
 ### Key Highlights
 
