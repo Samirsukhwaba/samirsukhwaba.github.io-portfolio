@@ -152,6 +152,7 @@ I'm actively working on building projects involving:
 - Microsoft Azure
 - SQL
 - Data Analytics
+- Databricks
 
 ---
 
