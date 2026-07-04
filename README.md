@@ -43,6 +43,7 @@ I enjoy building scalable cloud-based data platforms, automating ETL/ELT pipelin
 
 ### Databases
 - Microsoft SQL Server
+- Azure SQL Database
 
 ### DevOps & Automation
 - Git
