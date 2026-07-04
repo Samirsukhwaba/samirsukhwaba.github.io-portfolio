@@ -110,7 +110,7 @@ Location: London, United Kingdom
 
 Email: [samirsukhwaba2020@gmail.com](mailto:samirsukhwaba2020@gmail.com)
 
-LinkedIn: [www.linkedin.com/in/samir-limbu-77b8a72ba](https://www.linkedin.com/in/samir-limbu-416b6629b/)
+LinkedIn: [www.linkedin.com/in/samir-limbu-416b6629b/](https://www.linkedin.com/in/samir-limbu-416b6629b/)
 
 ---
 
